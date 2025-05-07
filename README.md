@@ -21,7 +21,7 @@ PREP (Planning Routes for Emergency Preparedness) is an AI and IoT-based evacuat
 
 You can find the video explanation for PREP in the `deliverables` folder.
 
-**Path**: `deliverables/video_explanation.mp4`
+**Path**: `[Video Explanation](https://github.com/NamanKatewa/Naman_Katewa_SectionA_PREP/blob/main/deliverables/Project%20Demonstration.mp4)`
 
 ---
 
